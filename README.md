@@ -4,6 +4,8 @@ pkg update
 
 pkg upgrade
 
+pkg install bs4 
+
 pkg install git 
 
 pkg install python
@@ -11,8 +13,8 @@ pkg install python
 git clone https://github.com/NATIONVK/Nation-pro-.git
 
 ls
-cd 
 
-Nation-pro-
+cd Nation-pro-
+
 python nation.py
  
