@@ -12,5 +12,7 @@ git clone https://github.com/NATIONVK/Nation-pro-.git
 
 ls
 cd 
+
 Nation-pro-
 python nation.py
+ 
